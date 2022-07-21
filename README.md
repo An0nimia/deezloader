@@ -29,7 +29,7 @@ pip3 install deezloader
 	[deez_login]
 	mail = #YOUR DEEZER EMAIL
 	password = #YOUR DEEZER PASSWORD
-	token = #YOUR ARL TOKEN GOT FROM DEEZER
+	token = #YOUR URL TOKEN GOT FROM DEEZER
 
 ### Setting disclaimer
 - Write that content inside .deez_settings.ini file for using deez-dw.py
